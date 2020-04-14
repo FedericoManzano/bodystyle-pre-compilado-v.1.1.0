@@ -42,8 +42,8 @@ Para facilitar el trabajo de instalación puede descargar una plantilla predefin
 
 #### NPM
 
-sudo npm install bodystyle-l-css@1.1.0 (Linux)
-npm install bodystyle-l-css@1.1.0 (Window)
+sudo npm install body-ui (Linux)
+npm install body-ui (Window)
 
 [plantilla](plantilla)
 
