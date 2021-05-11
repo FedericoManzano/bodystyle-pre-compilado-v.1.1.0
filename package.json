@@ -6,7 +6,7 @@
     "acorn": "^7.3.1",
     "babel-loader": "^8.1.0",
     "kind-of": "^6.0.3",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "minimist": "^1.2.5",
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.12"
